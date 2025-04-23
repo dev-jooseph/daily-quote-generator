@@ -22,8 +22,10 @@ Clone the repo and open `index.html` in your browser:
 ```bash
 git clone https://github.com/dev-jooseph/daily-quote-generator.git
 
----
+```bash
+
 Or view it live here (https://dev-jooseph.github.io/daily-quote-generator/)
+
 License
 
 MIT
